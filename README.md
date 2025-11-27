@@ -5,10 +5,10 @@ This project allows users to add student records, display all records, and calcu
 🚀 Features
 Add new student records (Roll No, Name, Course, Marks).
 Automatically calculate grade based on marks:
-A → Marks ≥ 90
-B → Marks ≥ 75
-C → Marks ≥ 50
-D → Marks < 50
+       A → Marks ≥ 90
+       B → Marks ≥ 75
+       C → Marks ≥ 50
+       D → Marks < 50
 Display all student records in a neat format.
 Menu-driven console application.
 Uses ArrayList for dynamic storage of multiple student records.
@@ -22,6 +22,7 @@ Methods:
 inputDetails() → Take input from user
 displayDetails() → Show student details
 calculateGrade() → Assign grade based on marks
+
 🖥️ Sample Output
 ===== Student Record Menu =====
 
